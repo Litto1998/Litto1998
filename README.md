@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Litto</h1>
-<h3 align="center">A passionate student from Naples</h3>
+<h3 align="center">A passionate computer engineering student from Italy </h3>
 
 - 🌱 I’m currently learning **AWS, Azure, Kubernets, Terraform**
 
